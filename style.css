@@ -1,0 +1,45 @@
+h {
+    font-size: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(54, 223, 235);
+}
+
+body {
+    background-color: rgb(54, 223, 235);
+}
+
+header {
+    background-color: orange;
+}
+
+.logo-container {
+  display: inline-block;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+p {
+    font-size: 40px;
+}
